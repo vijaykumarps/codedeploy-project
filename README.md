@@ -1,1 +1,1 @@
-# codedeploy-project
+# Sample Application for AWS DevOps Course
